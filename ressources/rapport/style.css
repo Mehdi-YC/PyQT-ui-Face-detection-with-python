@@ -1,0 +1,46 @@
+*{
+    background-color: #F0F0F0;
+}
+html{
+    display: flex;
+    justify-content: center;
+}
+table,tr,td{
+    border: 1px black solid;
+}
+td{
+    width: 20px;
+    height: 20px;
+}
+img{
+    width: 150px;
+    height:150px;
+}
+
+#tableaux{
+    display: flex;
+    justify-content: space-around;
+}
+#tableaux2{
+    justify-content: space-around;
+}
+#image{
+ justify-content: space-around;
+}
+#image2{
+ justify-content: space-around;
+}
+
+span{
+font-size:20px;
+font-weight: bold;
+}
+
+#container{
+    justify-content: space-between;
+}
+
+#vec{
+    font-size: 14px;
+
+}
